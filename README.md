@@ -85,7 +85,7 @@
 # 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com">
+  <a href="[https://linkedin.com](https://www.linkedin.com/in/alwan-farhan-aziz-5289aa194/)">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
@@ -93,7 +93,7 @@
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 
-  <a href="https://instagram.com">
+  <a href="[https://instagram.com](https://www.instagram.com/alwan.system/)">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
