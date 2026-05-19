@@ -1,105 +1,157 @@
-# Hi there 👋 I'm Alwan Farhan Aziz
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Infrastructure+Engineer;Linux+%26+Docker+Enthusiast;Network+Automation+Specialist;Internal+System+Developer;Monitoring+%26+Deployment" />
-</p>
+# 🚀 Alwan Farhan Aziz
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Infrastructure+Engineer;Linux+%26+Docker+Enthusiast;Network+Automation+Specialist;Internal+System+Developer;Building+Reliable+IT+Systems" />
+
+</div>
 
 ---
 
-# 🖧 Infrastructure & System Engineering
+<div align="center">
+
+<img src="https://img.shields.io/badge/Infrastructure-Engineer-00F7FF?style=for-the-badge&logo=icloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Docker-Deployment-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/MikroTik-Networking-293239?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Django-Backend-092E20?style=for-the-badge&logo=django"/>
+
+</div>
+
+---
+
+# 🖧 About Me
 
 ```bash
-> Building reliable infrastructure, automation, and internal systems
+> Focused on infrastructure, automation, and modern internal systems
 ```
 
-🚀 Focused on:
-- Network Infrastructure
-- Linux Server Administration
-- Docker Deployment
-- Infrastructure Monitoring
-- Internal System Development
-- Automation & DevOps Learning
+🔹 Infrastructure & Network Engineering  
+🔹 Linux Server Administration  
+🔹 Docker Deployment & Containerization  
+🔹 Internal System Development  
+🔹 Monitoring & Automation  
+🔹 DevOps Learning Journey  
 
 ---
 
-# ⚙️ Tech Stack
+# ⚡ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,docker,python,django,postgres,bash,git,github,nginx,vscode" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,docker,python,django,postgres,bash,git,github,nginx,vscode" />
+
+</div>
 
 ---
 
 # 📡 Infrastructure Focus
 
-| Area | Technology |
-|------|-------------|
-| Networking | Cisco, MikroTik, Fortinet, VLAN, Routing, Switching |
-| Systems | Linux Server, Ubuntu |
-| Containers | Docker, Docker Compose |
-| Backend | Django, Python |
-| Database | PostgreSQL |
-| Monitoring | Network Throughput Monitoring |
-| Automation | Bash, Python Scripts |
+<div align="center">
+
+| Infrastructure | Systems | Development |
+|---|---|---|
+| MikroTik | Linux Server | Django |
+| VLAN | Ubuntu | Python |
+| Routing | Docker | PostgreSQL |
+| Network Monitoring | Nginx | Automation |
+| Switching | Bash | Internal Apps |
+
+</div>
 
 ---
 
 # 🚀 Current Projects
 
-- 📊 Network Monitoring Dashboard
-- 🐳 Dockerized Internal Applications
-- 🖧 MikroTik Automation Scripts
-- ⚙️ Linux Server Automation
-- 📈 Infrastructure Monitoring Tools
+```yaml
+- Network Monitoring Dashboard
+- Dockerized Django Applications
+- MikroTik Automation Scripts
+- Linux Server Automation
+- Infrastructure Monitoring Tools
+- Internal Business Systems
+```
 
 ---
 
 # 📊 GitHub Statistics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1705Alwwwan&show_icons=true&theme=tokyonight&hide_border=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1705Alwwwan&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=1705Alwwwan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1705Alwwwan&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+</div>
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 Contribution Streak
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1705Alwwwan&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=1705Alwwwan&theme=tokyonight&hide_border=true&background=00000000"/>
+
+</div>
+
+---
+
+# 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=1705Alwwwan&theme=tokyo-night&hide_border=true&bg_color=00000000"/>
+
+</div>
 
 ---
 
 # 🧠 Currently Learning
 
-- DevOps Fundamentals
-- Infrastructure Automation
-- Container Orchestration
-- Monitoring Systems
-- CI/CD Concepts
+<div align="center">
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![DevOps](https://img.shields.io/badge/DevOps-0A0A0A?style=flat-square)
+![Monitoring](https://img.shields.io/badge/Monitoring-00F7FF?style=flat-square)
+![Automation](https://img.shields.io/badge/Automation-FF6B6B?style=flat-square)
+
+</div>
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
-  <a href="[https://linkedin.com](https://www.linkedin.com/in/alwan-farhan-aziz-5289aa194/)">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+<div align="center">
 
-  <a href="https://github.com/1705Alwwwan">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
+<a href="https://github.com/1705Alwwwan">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
 
-  <a href="[https://instagram.com](https://www.instagram.com/alwan.system/)">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-</p>
+<a href="https://linkedin.com">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://instagram.com">
+  <img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=1705Alwwwan&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=1705Alwwwan&label=Profile+Views&color=00F7FF&style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+```diff
++ Building reliable infrastructure for modern systems 🚀
+```
+
+</div>
