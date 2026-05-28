@@ -92,7 +92,6 @@ Focus:
 
 <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=1705Alwwwan&show_icons=true&theme=tokyonight"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1705Alwwwan&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
