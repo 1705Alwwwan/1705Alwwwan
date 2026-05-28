@@ -90,9 +90,9 @@ Focus:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=1705Alwwwan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&cache_seconds=1800"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=1705Alwwwan&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1705Alwwwan&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&cache_seconds=1800"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1705Alwwwan&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
