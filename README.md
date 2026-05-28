@@ -81,9 +81,7 @@ Environment:
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=1705Alwwwan&show_icons=true&theme=react&hide_border=true&bg_color=0D1117"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1705Alwwwan&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=1705Alwwwan&show_icons=true&theme=tokyonight"/>
 
 </div>
 
