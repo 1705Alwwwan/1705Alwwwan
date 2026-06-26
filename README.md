@@ -1,6 +1,7 @@
+````markdown
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,50:0EA5E9,100:2563EB&text=ALWAN%20FARHAN%20AZIZ&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=Infrastructure%20Engineer%20•%20Network%20Engineer%20•%20Cloud%20Enthusiast&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,50:0EA5E9,100:2563EB&text=ALWAN%20FARHAN%20AZIZ&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=Infrastructure%20Engineer%20•%20Network%20Engineer%20•%20Cloud%20Enthusiast&descAlignY=58&descSize=18"/>
 
 # 👋 Hi, I'm Alwan Farhan Aziz
 
@@ -8,7 +9,29 @@
 
 Building reliable infrastructure through networking, Linux administration, Kubernetes, automation, and cloud technologies.
 
+<p>
+
 <img src="https://komarev.com/ghpvc/?username=1705Alwwwan&style=for-the-badge&color=0ea5e9"/>
+
+<img src="https://img.shields.io/github/followers/1705Alwwwan?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/1705Alwwwan?style=for-the-badge"/>
+
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Linux-Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/MikroTik-Networking-293239?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Kubernetes-K3s-326CE5?style=for-the-badge&logo=kubernetes"/>
+
+<img src="https://img.shields.io/badge/Docker-Container-2496ED?style=for-the-badge&logo=docker"/>
+
+<img src="https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?style=for-the-badge&logo=githubactions"/>
+
+</p>
 
 </div>
 
@@ -17,6 +40,8 @@ Building reliable infrastructure through networking, Linux administration, Kuber
 # 🚀 About Me
 
 ```yaml
+Name: Alwan Farhan Aziz
+
 Role:
   Infrastructure Engineer
 
@@ -24,14 +49,15 @@ Focus:
   - Enterprise Networking
   - Linux Administration
   - Server Infrastructure
-  - Container Platform
+  - Kubernetes Platform
   - Infrastructure Automation
-  - Cloud Computing
+  - Monitoring & Observability
 
-Currently Learning:
+Learning:
   - Terraform
   - Ansible
   - AWS
+  - Azure
 ```
 
 ---
@@ -40,7 +66,7 @@ Currently Learning:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,docker,kubernetes,terraform,ansible,githubactions,bash,python,django,fastapi,postgres,redis,mysql,git,github,nginx,vscode"/>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,docker,kubernetes,terraform,ansible,githubactions,git,github,bash,python,django,fastapi,postgres,mysql,redis,nginx,vscode,postman"/>
 
 </p>
 
@@ -51,12 +77,12 @@ Currently Learning:
 | Infrastructure | Networking | Cloud & DevOps |
 |----------------|------------|----------------|
 | Linux Administration | MikroTik | Docker |
-| Ubuntu Server | TCP/IP | Kubernetes (K3s) |
+| Ubuntu Server | TCP/IP | Kubernetes |
 | Debian | VLAN | GitHub Actions |
 | Nginx | Routing | ArgoCD |
 | Reverse Proxy | VPN | Helm |
-| Monitoring | Firewall | Terraform *(Learning)* |
-| Virtualization | DNS / DHCP | Ansible *(Learning)* |
+| Virtualization | Firewall | Terraform |
+| Monitoring | DNS / DHCP | Ansible |
 
 ---
 
@@ -76,19 +102,54 @@ Currently Learning:
 
 - 🏢 ERP System with Django
 - ☸ Kubernetes Homelab (K3s)
-- ⚙ GitHub Actions CI/CD Pipeline
+- ⚙ GitHub Actions CI/CD
 - 🔄 GitOps with ArgoCD
-- 📊 Monitoring Stack (Prometheus, Grafana & Loki)
+- 📊 Monitoring Stack
 - 🐍 FastAPI Inventory API
-- 🖧 Enterprise Network & VLAN Lab
+- 🖧 Enterprise Network Lab
+- ☁ Terraform Learning Lab
 
 ---
 
-# 📈 GitHub Stats
+# 🏡 Homelab
+
+```text
+                 Internet
+                     │
+              MikroTik Router
+                     │
+          ┌──────────┴──────────┐
+          │                     │
+      Ubuntu Server         Client LAN
+          │
+  ┌───────┴────────┐
+  │                │
+Docker         Kubernetes
+  │                │
+ERP          FastAPI API
+  │                │
+PostgreSQL     Monitoring
+                   │
+     Prometheus • Grafana • Loki
+```
+
+---
+
+# 🏆 GitHub Trophy
 
 <p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=1705Alwwwan&show_icons=true&theme=tokyonight"/>
+<img src="https://github-profile-trophy.vercel.app/?username=1705Alwwwan&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</p>
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=1705Alwwwan&show_icons=true&theme=tokyonight&count_private=true"/>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1705Alwwwan&layout=compact&theme=tokyonight"/>
 
@@ -102,14 +163,35 @@ Currently Learning:
 
 ---
 
-# 🎯 2026 Learning Goals
+# 📊 Contribution Graph
 
-- ☁ AWS Cloud
-- 🏗 Terraform
-- ⚙ Ansible
-- ☸ Production Kubernetes
-- 🔄 GitOps
-- 📜 Cloud Certification
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=1705Alwwwan&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🎯 2026 Roadmap
+
+```text
+Networking      ████████████████ 95%
+
+Linux           ███████████████░ 90%
+
+Docker          ██████████████░░ 85%
+
+Kubernetes      ███████████░░░░░ 70%
+
+GitOps          █████████░░░░░░░ 60%
+
+Terraform       ██████░░░░░░░░░░ 40%
+
+Ansible         ███░░░░░░░░░░░░░ 20%
+
+AWS             ██░░░░░░░░░░░░░░ 15%
+```
 
 ---
 
@@ -135,8 +217,13 @@ Currently Learning:
 
 <div align="center">
 
-> *"Reliable infrastructure starts with strong networking, solid systems, and continuous automation."*
+> **"Reliable infrastructure is built on strong networking, resilient systems, and continuous automation."**
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:2563EB,50:0EA5E9,100:020617"/>
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,50:0EA5E9,100:2563EB"/>
+
+</p>
+````
