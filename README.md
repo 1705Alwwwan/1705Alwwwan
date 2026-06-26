@@ -17,7 +17,7 @@ Building reliable infrastructure through networking, Linux administration, Kuber
 
 <p>
 <img src="https://img.shields.io/badge/Linux-Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/MikroTik-Networking-293239?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MikroTik-Networking-red?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Kubernetes-K3s-326CE5?style=for-the-badge&logo=kubernetes"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?style=for-the-badge&logo=githubactions"/>
@@ -27,186 +27,171 @@ Building reliable infrastructure through networking, Linux administration, Kuber
 
 ---
 
-<h1 align="center">🚀 About Me</h1>
+<h2 align="center">🚀 About Me</h2>
 
 <table align="center">
-
 <tr>
-<td>
+<td width="220">
 
-<b>Role</b>
+### 👨‍💻 Role
 
 Infrastructure Engineer
 
-<br><br>
+</td>
 
-<b>Core Focus</b>
+<td width="360">
+
+### 🎯 Focus
 
 - Enterprise Networking
 - Linux Administration
 - Server Infrastructure
-- Kubernetes (K3s)
-- Docker & Containers
-- Monitoring & Observability
+- Docker & Kubernetes
+- Monitoring
 - Infrastructure Automation
 
-<br>
+</td>
 
-<b>Currently Learning</b>
+<td width="220">
+
+### 📚 Learning
 
 - Terraform
 - Ansible
-- AWS Cloud
+- Alibaba Cloud
 
 </td>
 </tr>
-
 </table>
-```
 
 ---
 
-# 🛠 Tech Stack
+<h2 align="center">🛠 Tech Stack</h2>
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,docker,kubernetes,terraform,ansible,githubactions,git,github,bash,python,django,fastapi,postgres,mysql,redis,nginx,vscode"/>
-
 </p>
 
 ---
 
-<h1 align="center">🖧 Core Skills</h1>
+<h2 align="center">🖧 Core Skills</h2>
 
 <table align="center">
-
 <tr>
-<th>Infrastructure</th>
-<th>Networking</th>
-<th>Cloud & DevOps</th>
+<th>🖥 Infrastructure</th>
+<th>🌐 Networking</th>
+<th>☁ Cloud & DevOps</th>
 </tr>
-
 <tr>
-<td align="center">Linux Administration</td>
-<td align="center">MikroTik</td>
-<td align="center">Docker</td>
-</tr>
+<td align="center">
 
-<tr>
-<td align="center">Ubuntu Server</td>
-<td align="center">TCP/IP</td>
-<td align="center">Kubernetes</td>
-</tr>
+Linux Administration<br>
+Ubuntu Server<br>
+Debian<br>
+Nginx<br>
+Reverse Proxy<br>
+Monitoring<br>
+Backup & Recovery
 
-<tr>
-<td align="center">Nginx</td>
-<td align="center">VLAN</td>
-<td align="center">GitHub Actions</td>
-</tr>
+</td>
 
-<tr>
-<td align="center">Reverse Proxy</td>
-<td align="center">Routing</td>
-<td align="center">ArgoCD</td>
-</tr>
+<td align="center">
 
-<tr>
-<td align="center">Monitoring</td>
-<td align="center">VPN</td>
-<td align="center">Helm</td>
-</tr>
+MikroTik<br>
+TCP/IP<br>
+VLAN<br>
+Routing<br>
+VPN<br>
+Firewall<br>
+DNS / DHCP
 
-<tr>
-<td align="center">Virtualization</td>
-<td align="center">Firewall</td>
-<td align="center">Terraform <i>(Learning)</i></td>
-</tr>
+</td>
 
-<tr>
-<td align="center">Backup & Recovery</td>
-<td align="center">DNS / DHCP</td>
-<td align="center">Ansible <i>(Learning)</i></td>
-</tr>
+<td align="center">
 
+Docker<br>
+Kubernetes (K3s)<br>
+GitHub Actions<br>
+ArgoCD<br>
+Helm<br>
+Terraform *(Learning)*<br>
+Ansible *(Learning)*
+
+</td>
+</tr>
 </table>
 
 ---
 
-# 📊 Monitoring & Observability
-
-- Prometheus
-- Grafana
-- Loki
-- Promtail
-- Node Exporter
-- cAdvisor
-- Uptime Kuma
-
----
-
-# 🚀 Featured Projects
-
-- 🏢 ERP Django
-- ☸ Kubernetes Homelab
-- ⚙ GitHub Actions CI/CD
-- 🔄 GitOps with ArgoCD
-- 📊 Monitoring Stack
-- 🐍 FastAPI Inventory API
-- 🖧 Enterprise Networking Lab
-
----
-
-# 📈 GitHub Statistics
+<h2 align="center">📊 Monitoring & Observability</h2>
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=1705Alwwwan&show_icons=true&theme=tokyonight&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1705Alwwwan&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=1705Alwwwan&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana"/>
+<img src="https://img.shields.io/badge/Loki-2F3136?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Uptime_Kuma-5CDD8B?style=for-the-badge"/>
 </p>
 
 ---
 
-# 📊 Contribution Graph
+<h2 align="center">🚀 Featured Projects</h2>
+
+| Project | Stack |
+|---------|-------|
+| ERP Django | Django · PostgreSQL · Docker |
+| Kubernetes Homelab | K3s · Helm · Traefik |
+| CI/CD Pipeline | GitHub Actions · ArgoCD |
+| Monitoring Stack | Grafana · Prometheus · Loki |
+| FastAPI Inventory API | FastAPI · PostgreSQL |
+| Enterprise Networking Lab | MikroTik · VLAN · VPN |
+
+---
+
+<h2 align="center">📈 GitHub Statistics</h2>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=1705Alwwwan&theme=tokyo-night&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=1705Alwwwan&show_icons=true&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1705Alwwwan&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img width="97%" src="https://streak-stats.demolab.com?user=1705Alwwwan&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=1705Alwwwan&theme=tokyo-night"/>
 </p>
 
 ---
 
-# 🎯 2026 Roadmap
+<h2 align="center">🎯 2026 Roadmap</h2>
 
 ```text
-Networking        ████████████████ 95%
-Linux             ███████████████░ 90%
-Docker            ██████████████░░ 85%
-Kubernetes        ███████████░░░░░ 70%
-GitOps            █████████░░░░░░░ 60%
-Terraform         ██████░░░░░░░░░░ 40%
-Ansible           ██░░░░░░░░░░░░░ 20%
-Ali Baba          ██░░░░░░░░░░░░░░ 15%
+Networking     ██████████████████ 100%
+Linux          ████████████████░░ 90%
+Docker         ███████████████░░░ 85%
+Kubernetes     ████████████░░░░░░ 75%
+GitOps         ██████████░░░░░░░░ 65%
+Terraform      ███████░░░░░░░░░░░ 45%
+Ansible        ████░░░░░░░░░░░░░░ 30%
+Cloud          ███░░░░░░░░░░░░░░░ 20%
 ```
 
 ---
 
-# 📫 Connect With Me
+<h2 align="center">📫 Connect With Me</h2>
 
-<div align="center">
-
+<p align="center">
 <a href="https://github.com/1705Alwwwan"><img src="https://skillicons.dev/icons?i=github"/></a>
 <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
 <a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail"/></a>
-
-</div>
+</p>
 
 ---
 
 <div align="center">
 
-> **"Reliable infrastructure is built on strong networking, resilient systems, and continuous automation."**
+> **Reliable infrastructure is built on strong networking, resilient systems, and continuous automation.**
 
 </div>
 
