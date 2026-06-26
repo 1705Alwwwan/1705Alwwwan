@@ -98,16 +98,6 @@ Currently Learning:
 
 ---
 
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="ryo-ma/github-profile-trophy"/>
-
-</p>
-
----
-
 # 📈 GitHub Statistics
 
 <p align="center">
