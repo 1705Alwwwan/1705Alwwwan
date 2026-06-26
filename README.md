@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:0EA5E9,100:020617&text=ALWAN%20FARHAN%20AZIZ&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38&desc=DevOps%20•%20Platform%20Engineer%20•%20Infrastructure&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,50:0EA5E9,100:2563EB&text=ALWAN%20FARHAN%20AZIZ&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=Infrastructure%20Engineer%20•%20Network%20Engineer%20•%20Cloud%20Enthusiast&descAlignY=58&descSize=18"/>
 
-# Hi 👋 I'm Alwan
+# 👋 Hi, I'm Alwan Farhan Aziz
 
-**DevOps Enthusiast • Infrastructure Engineer • Backend Developer**
+### Infrastructure • Networking • Linux • Cloud
 
-Building scalable infrastructure with Kubernetes, Docker, CI/CD and Infrastructure as Code.
+Building reliable infrastructure through networking, Linux administration, Kubernetes, automation, and cloud technologies.
 
-<img src="https://komarev.com/ghpvc/?username=1705Alwwwan&label=Profile+Views&color=0ea5e9&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=1705Alwwwan&style=for-the-badge&color=0ea5e9"/>
 
 </div>
 
@@ -17,109 +17,50 @@ Building scalable infrastructure with Kubernetes, Docker, CI/CD and Infrastructu
 # 🚀 About Me
 
 ```yaml
-Name: Alwan Farhan Aziz
+Role:
+  Infrastructure Engineer
 
-Current Focus:
-  - DevOps Engineering
-  - Kubernetes Platform
-  - Infrastructure Automation
-  - CI/CD Pipeline
-  - Cloud Native
-
-Interested In:
-  - Platform Engineering
-  - Site Reliability Engineering
-  - Infrastructure as Code
-  - Monitoring & Observability
+Focus:
+  - Enterprise Networking
   - Linux Administration
+  - Server Infrastructure
+  - Container Platform
+  - Infrastructure Automation
+  - Cloud Computing
 
-Current Lab:
-  - Ubuntu Server
-  - Docker
-  - Kubernetes (K3s)
-  - GitHub Actions
-  - ArgoCD
+Currently Learning:
+  - Terraform
+  - Ansible
+  - AWS
 ```
 
 ---
 
 # 🛠 Tech Stack
 
-## Cloud Native
-
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,terraform"/>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,docker,kubernetes,terraform,ansible,githubactions,bash,python,django,fastapi,postgres,redis,mysql,git,github,nginx,vscode"/>
 
 </p>
 
 ---
 
-## Backend
+# 🖧 Core Skills
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs"/>
-
-</p>
-
----
-
-## Databases
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis"/>
-
-</p>
+| Infrastructure | Networking | Cloud & DevOps |
+|----------------|------------|----------------|
+| Linux Administration | MikroTik | Docker |
+| Ubuntu Server | TCP/IP | Kubernetes (K3s) |
+| Debian | VLAN | GitHub Actions |
+| Nginx | Routing | ArgoCD |
+| Reverse Proxy | VPN | Helm |
+| Monitoring | Firewall | Terraform *(Learning)* |
+| Virtualization | DNS / DHCP | Ansible *(Learning)* |
 
 ---
 
-## Linux & Infrastructure
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,bash,nginx,git,github,vscode"/>
-
-</p>
-
----
-
-# ☸ Kubernetes Experience
-
-- Kubernetes (K3s)
-- Deployments
-- Services
-- Ingress
-- Namespaces
-- ConfigMaps
-- Secrets
-- Persistent Volume
-- Persistent Volume Claim
-- StorageClass
-- Longhorn
-- Traefik
-- Helm
-- kubectl
-
----
-
-# ⚙ DevOps Skills
-
-- Docker
-- Docker Compose
-- GitHub Actions
-- GitOps
-- ArgoCD
-- Argo Rollouts
-- Blue Green Deployment
-- Canary Deployment
-- Self Hosted Runner
-- CI/CD Pipeline
-
----
-
-# 📈 Monitoring & Observability
+# 📊 Monitoring & Observability
 
 - Prometheus
 - Grafana
@@ -127,74 +68,31 @@ Current Lab:
 - Promtail
 - Node Exporter
 - cAdvisor
-
----
-
-# 🖧 Infrastructure
-
-- Linux Administration
-- MikroTik
-- VLAN
-- VPN
-- Firewall
-- Routing
-- DNS
-- DHCP
-- Reverse Proxy
-- Nginx Proxy Manager
-- Disaster Recovery
-- High Availability Concepts
-
----
-
-# 📚 Currently Learning
-
-- Terraform
-- Ansible
-- Infrastructure as Code
-- AWS
-- Azure
-- Alibaba Cloud
-- GitOps
-- Platform Engineering
+- Uptime Kuma
 
 ---
 
 # 🚀 Featured Projects
 
-✅ ERP Django
-
-✅ Kubernetes Homelab
-
-✅ CI/CD with GitHub Actions
-
-✅ GitOps with ArgoCD
-
-✅ Monitoring Stack
-
-- Prometheus
-- Grafana
-- Loki
-
-✅ FastAPI Inventory API
-
-✅ Dockerized Applications
+- 🏢 ERP System with Django
+- ☸ Kubernetes Homelab (K3s)
+- ⚙ GitHub Actions CI/CD Pipeline
+- 🔄 GitOps with ArgoCD
+- 📊 Monitoring Stack (Prometheus, Grafana & Loki)
+- 🐍 FastAPI Inventory API
+- 🖧 Enterprise Network & VLAN Lab
 
 ---
 
-# 📊 GitHub Statistics
+# 📈 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=1705Alwwwan&show_icons=true&theme=tokyonight"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=1705Alwwwan&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1705Alwwwan&layout=compact&theme=tokyonight"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1705Alwwwan&layout=compact&theme=tokyonight"/>
 
 </p>
-
----
-
-# 🔥 Contribution Streak
 
 <p align="center">
 
@@ -204,13 +102,14 @@ Current Lab:
 
 ---
 
-# 📈 Activity Graph
+# 🎯 2026 Learning Goals
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=1705Alwwwan&theme=tokyo-night&hide_border=true"/>
-
-</p>
+- ☁ AWS Cloud
+- 🏗 Terraform
+- ⚙ Ansible
+- ☸ Production Kubernetes
+- 🔄 GitOps
+- 📜 Cloud Certification
 
 ---
 
@@ -236,8 +135,8 @@ Current Lab:
 
 <div align="center">
 
-> *"Automating infrastructure today for a more reliable tomorrow."*
+> *"Reliable infrastructure starts with strong networking, solid systems, and continuous automation."*
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:020617,50:0EA5E9,100:0F172A"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:2563EB,50:0EA5E9,100:020617"/>
