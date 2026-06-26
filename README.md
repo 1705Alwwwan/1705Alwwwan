@@ -27,25 +27,41 @@ Building reliable infrastructure through networking, Linux administration, Kuber
 
 ---
 
-# 🚀 About Me
+<h1 align="center">🚀 About Me</h1>
 
-```yaml
-Role:
-  Infrastructure Engineer
+<table align="center">
 
-Core Focus:
-  - Enterprise Networking
-  - Linux Administration
-  - Server Infrastructure
-  - Kubernetes (K3s)
-  - Docker & Containers
-  - Monitoring & Observability
-  - Infrastructure Automation
+<tr>
+<td>
 
-Currently Learning:
-  - Terraform
-  - Ansible
-  - AWS Cloud
+<b>Role</b>
+
+Infrastructure Engineer
+
+<br><br>
+
+<b>Core Focus</b>
+
+- Enterprise Networking
+- Linux Administration
+- Server Infrastructure
+- Kubernetes (K3s)
+- Docker & Containers
+- Monitoring & Observability
+- Infrastructure Automation
+
+<br>
+
+<b>Currently Learning</b>
+
+- Terraform
+- Ansible
+- AWS Cloud
+
+</td>
+</tr>
+
+</table>
 ```
 
 ---
@@ -113,6 +129,7 @@ Currently Learning:
 </tr>
 
 </table>
+
 ---
 
 # 📊 Monitoring & Observability
