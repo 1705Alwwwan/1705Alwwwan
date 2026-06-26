@@ -60,19 +60,59 @@ Currently Learning:
 
 ---
 
-# 🖧 Core Skills
+<h1 align="center">🖧 Core Skills</h1>
 
-<div align="center">
-| Infrastructure | Networking | Cloud & DevOps |
-|---|---|---|
-| Linux Administration | MikroTik | Docker |
-| Ubuntu Server | TCP/IP | Kubernetes |
-| Nginx | VLAN | GitHub Actions |
-| Reverse Proxy | Routing | ArgoCD |
-| Monitoring | VPN | Helm |
-| Virtualization | Firewall | Terraform *(Learning)* |
-| Backup & Recovery | DNS / DHCP | Ansible *(Learning)* |
-</div?
+<table align="center">
+
+<tr>
+<th>Infrastructure</th>
+<th>Networking</th>
+<th>Cloud & DevOps</th>
+</tr>
+
+<tr>
+<td align="center">Linux Administration</td>
+<td align="center">MikroTik</td>
+<td align="center">Docker</td>
+</tr>
+
+<tr>
+<td align="center">Ubuntu Server</td>
+<td align="center">TCP/IP</td>
+<td align="center">Kubernetes</td>
+</tr>
+
+<tr>
+<td align="center">Nginx</td>
+<td align="center">VLAN</td>
+<td align="center">GitHub Actions</td>
+</tr>
+
+<tr>
+<td align="center">Reverse Proxy</td>
+<td align="center">Routing</td>
+<td align="center">ArgoCD</td>
+</tr>
+
+<tr>
+<td align="center">Monitoring</td>
+<td align="center">VPN</td>
+<td align="center">Helm</td>
+</tr>
+
+<tr>
+<td align="center">Virtualization</td>
+<td align="center">Firewall</td>
+<td align="center">Terraform <i>(Learning)</i></td>
+</tr>
+
+<tr>
+<td align="center">Backup & Recovery</td>
+<td align="center">DNS / DHCP</td>
+<td align="center">Ansible <i>(Learning)</i></td>
+</tr>
+
+</table>
 ---
 
 # 📊 Monitoring & Observability
@@ -143,7 +183,7 @@ Ali Baba          ██░░░░░░░░░░░░░░ 15%
 <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
 <a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 
-</div?
+</div>
 
 ---
 
