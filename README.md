@@ -62,6 +62,7 @@ Currently Learning:
 
 # 🖧 Core Skills
 
+<div align="center">
 | Infrastructure | Networking | Cloud & DevOps |
 |---|---|---|
 | Linux Administration | MikroTik | Docker |
@@ -71,7 +72,7 @@ Currently Learning:
 | Monitoring | VPN | Helm |
 | Virtualization | Firewall | Terraform *(Learning)* |
 | Backup & Recovery | DNS / DHCP | Ansible *(Learning)* |
-
+</div?
 ---
 
 # 📊 Monitoring & Observability
@@ -122,27 +123,27 @@ Currently Learning:
 # 🎯 2026 Roadmap
 
 ```text
-Networking      ████████████████ 95%
-Linux           ███████████████░ 90%
-Docker          ██████████████░░ 85%
-Kubernetes      ███████████░░░░░ 70%
-GitOps          █████████░░░░░░░ 60%
-Terraform       ██████░░░░░░░░░░ 40%
-Ansible         ███░░░░░░░░░░░░░ 20%
-AWS             ██░░░░░░░░░░░░░░ 15%
+Networking        ████████████████ 95%
+Linux             ███████████████░ 90%
+Docker            ██████████████░░ 85%
+Kubernetes        ███████████░░░░░ 70%
+GitOps            █████████░░░░░░░ 60%
+Terraform         ██████░░░░░░░░░░ 40%
+Ansible           ██░░░░░░░░░░░░░ 20%
+Ali Baba          ██░░░░░░░░░░░░░░ 15%
 ```
 
 ---
 
 # 📫 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/1705Alwwwan"><img src="https://skillicons.dev/icons?i=github"/></a>
 <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
 <a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 
-</p>
+</div?
 
 ---
 
